@@ -10,6 +10,6 @@ export { default as UserProfile } from "./UserProfile";
 export { default as SparkLine } from "./Charts/SparkLineChart";
 export { default as LineChart } from "./Charts/LineChart";
 export { default as Stacked } from "./Charts/StackedChart";
-export { default as Pie } from "./Charts/PieChart";
+export { default as PieChart } from "./Charts/PieChart";
 export { default as ChartsHeader } from "./Charts/ChartsHeader";
 export { default as Header } from "./Header";
